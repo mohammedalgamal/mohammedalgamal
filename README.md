@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mohammedalgamal
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning python
+- 👀 I’m interested in programming mainly Web Development
+- 🌱 I’m currently learning Frontend development
 - 📫 How to reach me mohammedalgamal95@gmail.com
 
 <!---
